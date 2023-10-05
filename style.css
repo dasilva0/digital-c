@@ -1,6 +1,6 @@
-@import url("https://fonts.googlepis.com/css2?family=poppins")
-*{
-    maegin:0;
+@import url("https://fonts.googleapis.com/css2?family=Poppins");
+* {
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family:Arial, Helvetica, sans-serif ,sans-serif;
@@ -101,7 +101,7 @@ form .gender-details .category{
     height: 15vh;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(135deg, #34b3f1, #ff8c32);
+    background: linear-gradient(135deg, #f6fbf4, #f6fbf4);
     
 
 }
@@ -131,7 +131,7 @@ form .button input:hover{
     background: linear-gradient(135deg, #ff8c32,#ff8c32 );
 
 }
-@media(max-width:58px) {
+@media(max-width:100%) {
     .container{
         max-width: 100px;
     }
